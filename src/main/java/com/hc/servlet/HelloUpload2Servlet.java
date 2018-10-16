@@ -25,6 +25,9 @@ import com.hc.utils.MyFileUtils;
 public class HelloUpload2Servlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
+	/**
+	 * this is from teacher
+	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		response.setContentType("text/html;charset=utf-8");
