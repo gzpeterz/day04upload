@@ -28,6 +28,7 @@ public class HelloUpload2Servlet extends HttpServlet {
 	/**
 	 * this is from teacher
 	 */
+	// a test
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		response.setContentType("text/html;charset=utf-8");
