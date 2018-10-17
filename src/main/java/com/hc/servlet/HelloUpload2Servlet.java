@@ -22,6 +22,7 @@ import org.apache.commons.io.IOUtils;
 
 import com.hc.utils.MyFileUtils;
 
+// master 上面 进行了 代码 修改
 public class HelloUpload2Servlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
